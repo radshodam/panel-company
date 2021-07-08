@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.overview {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    color: #000000;
+    height: 90vh;
+}
+.red {
+    background-color: #ff236559;
+}
+.textred {
+    color: #ff236586;
+}
+.textblue {
+    color: #239cff86;
+}
+.blue {
+    background-color: #4791ff62;
+}
+.orange {
+    background-color: #f9862254;
+}
+.yellow {
+    background-color: #ffcc0054;
+}
+.green {
+    background-color: #2cb94d46;
+}
+.Purple {
+    background-color: #7c4af17c;
+}
